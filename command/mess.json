@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "_Nghak lawk rawh..._",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "I link rawn dah hi a dik lop",
+        "api": "Sorry an error occurred"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "He Cmd hi Group-ah chauh hman thei a ni",
+    "OnlyPM": "He Cmd hi private-chat ah chauh hman thei a ni",
+    "GrupAdmin": "He Cmd hi Group Admin-te chauh hman thei a ni",
+    "BotAdmin": "I Cmd rawn sawi hi Admin ka nih hunah chauh ka ti thei ang",
+    "OnlyOwner": "Herbert chauhin he Cmd hi a hmang thei",
+    "OnlyPrem": "He Cmd hi Premium Member te chauh hman thei a ni"
 }
